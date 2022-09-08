@@ -1,0 +1,11 @@
+"use strict";
+console.log('hola mundo');
+let nombre = 'ignacio';
+let texto = "soy de tipo texto";
+let numero = 1235;
+let verdadFalso = false;
+let cualquiera = "cualquier cosa";
+let arrayCaracter = ["texto", "texto2"];
+let arrayNumero;
+let arrayCualquiera = ["texto"];
+texto = "hola soy un texto";
